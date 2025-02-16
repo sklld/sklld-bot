@@ -189,8 +189,8 @@
         "tank_name_not_found": "# Tank not found\nCould not find tank by the name \"%s1\".",
         "tank_id_not_found": "# Tank not found\nCould not find tank by the ID \"%s1\". Try typing the name of the tank instead of a number.",
         "no_tank_stats": "# No tank stats available\nThis player doesn't have any stats available. This may not be the player you are looking for.",
-        "get_help": "Help Discord server",
-        "uncaught_error": "# BlitzKit ran into an error!\nWe're so sorry about this. Feel free to [join the official Discord server](https://discord.gg/nDt7AjGJQH) to get help.",
+        "get_help": "Discordサーバーに参加する",
+        "uncaught_error": "# BlitzKit がエラーに遭遇しました！\n申し訳ありません。お気軽に[Discordの公式サーバー](https://discord.gg/nDt7AjGJQH) をご利用ください。",
         "preview": "# This command is in preview\n\nYou can only access this command in [the official Discord server](https://discord.gg/nDt7AjGJQH). The command will be generally available soon.",
         "query_too_small": "# Your search is too short\nYour search must be at least 3 characters long.",
         "query_too_long": "# Your search is too long\nYour search must be at most 100 characters long."

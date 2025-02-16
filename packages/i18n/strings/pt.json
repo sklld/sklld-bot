@@ -736,7 +736,7 @@
       },
       "hot_tanks": {
         "title": "Tanques populares",
-        "subtitle": "Último %s1 dias"
+        "subtitle": "Últimos %s1 dias"
       },
       "other_projects": {
         "title": "Outros projetos legais"
@@ -747,7 +747,7 @@
     "tools": {
       "tankopedia": {
         "name": "Tanquepedia",
-        "button": "Encontre tanques",
+        "button": "Encontrar tanques",
         "description": "Blitz enciclopédia de tanques",
         "seo_description": "Estatísticas, blindagem, e mais para todos os tanques de Wolrd of Tanks Blitz",
         "tank_seo_title": "%s1 - Nível %s2 %s3 %s4 | %s5 Tanquepedia | World of Tanks Blitz (WoTB)",
@@ -997,7 +997,7 @@
       "compare": {
         "name": "Comparar",
         "button": "Comparar tanques",
-        "description": "Comparar estatísticas do tanque",
+        "description": "Comparar estatísticas de tanques",
         "seo_description": "Compare estatísticas dos tanques e arsenais no World of Tanks Blitz",
         "actions": {
           "add": {
@@ -1248,7 +1248,7 @@
       "blitz_insider": {
         "name": "Assistente Blitz",
         "button": "Descubra hoje",
-        "description": "Estatísticas da temporada em jogo",
+        "description": "Estatísticas da temporada dentro do jogo",
         "seo_description": "Estatísticas da temporada em jogo em World of Tanks Blitz"
       }
     },
